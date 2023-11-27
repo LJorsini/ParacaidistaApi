@@ -1,0 +1,6 @@
+@ParacaApi_HostAddress = http://localhost:5050
+
+GET {{ParacaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
